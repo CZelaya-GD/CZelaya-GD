@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there Buddy👋
 
+- 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning.
+- 🧟 'Code', "Code", 'Code'
 <!--
 **CZelaya-GD/CZelaya-GD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
